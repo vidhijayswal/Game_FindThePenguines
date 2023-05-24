@@ -1,0 +1,216 @@
+body {
+    background-color: #ccf5f5;
+}
+
+#gameholder {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#title {
+    width: 600px;
+    height: 150px;
+    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/penguin_title.png');
+}
+
+#score {
+    width: 150px;
+    height: 70px;
+    position: absolute;
+    left: 75%;
+    text-align: center;
+    font-family: Comic Sans MS;
+    font-size: 1.5em;
+    font-weight: 800;
+    color: darkblue;
+    text-shadow: 2px 2px lightgrey;
+}
+
+#penguin1:hover {
+    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/mound_1_hover.png');
+    cursor: pointer;
+}
+#penguin1:active {
+    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/penguin_1.png');
+}
+#penguin1.active {
+    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/penguin_1.png');
+}
+#penguin2.active {
+    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/penguin_2.png');
+}
+#penguin3.active {
+    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/penguin_3.png');
+}
+#penguin4.active {
+    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/penguin_4.png');
+}
+#penguin5.active {
+    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/penguin_5.png');
+}
+#penguin6.active {
+    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/penguin_6.png');
+}
+#penguin7.active {
+    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/penguin_7.png');
+}
+#penguin8.active {
+    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/penguin_8.png');
+}
+#penguin9.active {
+    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/yeti.png');
+}
+
+
+#penguin1 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/mound_1.png');
+}
+#penguin2:hover {
+    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/mound_2_hover.png');
+    cursor: pointer;
+}
+#penguin2:active {
+    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/penguin_2.png');
+}
+#penguin2 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/mound_2.png');
+}
+#penguin3:hover {
+    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/mound_3_hover.png');
+    cursor: pointer;
+}
+#penguin3:active {
+    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/penguin_3.png');
+}
+#penguin3 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/mound_3.png');
+}
+#penguin4:hover {
+    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/mound_4_hover.png');
+    cursor: pointer;
+}
+#penguin4:active {
+    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/penguin_4.png');
+}
+#penguin4 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/mound_4.png');
+}
+#penguin5:hover {
+    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/mound_5_hover.png');
+    cursor: pointer;
+}
+#penguin5:active {
+    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/penguin_5.png');
+}
+#penguin5 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/mound_5.png');
+}
+#penguin6:hover {
+    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/mound_6_hover.png');
+    cursor: pointer;
+}
+#penguin6:active {
+    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/penguin_6.png');
+}
+#penguin6 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/mound_6.png');
+}
+#penguin7:hover {
+    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/mound_7_hover.png');
+    cursor: pointer;
+}
+#penguin7:active {
+    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/penguin_7.png');
+}
+#penguin7 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/mound_7.png');
+}
+#penguin8:hover {
+    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/mound_8_hover.png');
+    cursor: pointer;
+}
+#penguin8:active {
+    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/penguin_8.png');
+}
+#penguin8 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/mound_8.png');
+}
+#yeti:hover {
+    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/mound_9_hover.png');
+    cursor: pointer;
+}
+#yeti:active {
+    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/yeti.png');
+}
+#yeti {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/mound_9.png');
+}
+#yeti.active{
+    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/yeti.png');
+}
+
+
+#layout{
+    position: fixed;
+    display: none;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 10;
+    right: 0;
+    bottom: 0;
+    text-align: center;
+    z-index: 2;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+#layout h1{
+    color: coral;
+    text-shadow: 3px 3px 4px black;
+    font-size: 75px;
+    font-family: monospace;
+    
+}
+#layout h2{
+    font-family: monospace;
+    font-size: 45px;
+    color: coral;
+    text-shadow: 3px 3px 4px black;
+}
+#try{
+    font-family: monospace;
+    text-shadow: 3px 3px 4px black;
+    font-size: 1.5em;
+    border:2px solid coral;
+    color: white;
+    cursor: pointer;
+    padding: 15px;
+    background-color: coral;
+}
