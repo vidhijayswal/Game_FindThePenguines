@@ -11,7 +11,7 @@ body {
 #title {
     width: 600px;
     height: 150px;
-    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/penguin_title.png');
+    background-image: url('../images/penguin_title.png');
 }
 
 #score {
@@ -28,153 +28,164 @@ body {
 }
 
 #penguin1:hover {
-    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/mound_1_hover.png');
+    background-image: url('../images/mound_1_hover.png');
     cursor: pointer;
 }
+
 #penguin1:active {
-    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/penguin_1.png');
-}
-#penguin1.active {
-    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/penguin_1.png');
-}
-#penguin2.active {
-    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/penguin_2.png');
-}
-#penguin3.active {
-    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/penguin_3.png');
-}
-#penguin4.active {
-    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/penguin_4.png');
-}
-#penguin5.active {
-    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/penguin_5.png');
-}
-#penguin6.active {
-    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/penguin_6.png');
-}
-#penguin7.active {
-    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/penguin_7.png');
-}
-#penguin8.active {
-    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/penguin_8.png');
-}
-#penguin9.active {
-    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/yeti.png');
+    background-image: url('../images/penguin_1.png');
 }
 
+#penguin2.active {
+    background-image:url('../images/penguin_2.png');
+}
+
+#penguin3.active {
+    background-image:url('../images/penguin_3.png');
+}
+
+#penguin4.active {
+    background-image:url('../images/penguin_4.png');
+}
+
+#penguin5.active {
+    background-image:url('../images/penguin_5.png');
+}
+
+#penguin6.active {
+    background-image:url('../images/penguin_6.png');
+}
+
+#penguin7.active {
+    background-image:url('../images/penguin_7.png');
+}
+
+#penguin8.active {
+    background-image:url('../images/penguin_8.png');
+}
+
+#penguin9.active {
+    background-image:url('../images/yeti.png');
+}
 
 #penguin1 {
     width: 200px;
     height: 200px;
     float: left;
-    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/mound_1.png');
+    background-image:url('../images/mound_1.png');
 }
+
 #penguin2:hover {
-    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/mound_2_hover.png');
+    background-image:url('../images/mound_2_hover.png');
     cursor: pointer;
 }
+
 #penguin2:active {
-    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/penguin_2.png');
+    background-image:url('../images/penguin_2.png');
 }
+
 #penguin2 {
     width: 200px;
     height: 200px;
     float: left;
-    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/mound_2.png');
+    background-image:url('../images/mound_2.png');
 }
+
 #penguin3:hover {
-    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/mound_3_hover.png');
+    background-image:url('../images/mound_3_hover.png');
     cursor: pointer;
 }
+
 #penguin3:active {
-    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/penguin_3.png');
+    background-image:url('../images/penguin_3.png');
 }
+
 #penguin3 {
     width: 200px;
     height: 200px;
     float: left;
-    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/mound_3.png');
+    background-image:url('../images/mound_3.png');
 }
 #penguin4:hover {
     background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/mound_4_hover.png');
     cursor: pointer;
 }
 #penguin4:active {
-    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/penguin_4.png');
+    background-image:url('../images/penguin_4.png');
 }
 #penguin4 {
     width: 200px;
     height: 200px;
     float: left;
-    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/mound_4.png');
+    background-image:url('../images/mound_4.png');
 }
 #penguin5:hover {
-    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/mound_5_hover.png');
+    background-image:url('../images/mound_5_hover.png');
     cursor: pointer;
 }
 #penguin5:active {
-    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/penguin_5.png');
+    background-image:url('../images/penguin_5.png');
 }
 #penguin5 {
     width: 200px;
     height: 200px;
     float: left;
-    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/mound_5.png');
+    background-image:url('../images/mound_5.png');
 }
 #penguin6:hover {
-    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/mound_6_hover.png');
+    background-image:url('../images/mound_6_hover.png');
     cursor: pointer;
 }
 #penguin6:active {
-    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/penguin_6.png');
+    background-image:url('../images/penguin_6.png');
 }
 #penguin6 {
     width: 200px;
     height: 200px;
     float: left;
-    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/mound_6.png');
+    background-image:url('../images/mound_6.png');
 }
 #penguin7:hover {
-    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/mound_7_hover.png');
+    background-image:url('../images/mound_7_hover.png');
     cursor: pointer;
 }
 #penguin7:active {
-    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/penguin_7.png');
+    background-image:url('../images/penguin_7.png');
 }
 #penguin7 {
     width: 200px;
     height: 200px;
     float: left;
-    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/mound_7.png');
+    background-image:url('../images/mound_7.png');
 }
 #penguin8:hover {
-    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/mound_8_hover.png');
+    background-image:url('../images/mound_8_hover.png');
     cursor: pointer;
 }
 #penguin8:active {
-    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/penguin_8.png');
+    background-image:url('../images/penguin_8.png');
 }
 #penguin8 {
     width: 200px;
     height: 200px;
     float: left;
-    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/mound_8.png');
+    background-image:url('../images/mound_8.png');
 }
 #yeti:hover {
-    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/mound_9_hover.png');
+    background-image:url('../images/mound_9_hover.png');
     cursor: pointer;
 }
 #yeti:active {
-    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/yeti.png');
+    background-image:url('../images/yeti.png');
 }
 #yeti {
     width: 200px;
     height: 200px;
     float: left;
-    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/mound_9.png');
+    background-image:url('../images/mound_9.png');
 }
 #yeti.active{
-    background-image:url('/Users/ab/Documents/Find_Penguin_Project/images/yeti.png');
+    background-image:url('../images/yeti.png');
 }
 
 
